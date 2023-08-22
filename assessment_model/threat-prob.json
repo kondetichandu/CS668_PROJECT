@@ -1,0 +1,326 @@
+[
+    {
+        "Technique": "Access Token Manipulation",
+        "Probability": 0.10626456371444527
+    },
+    {
+        "Technique": "Accessibility Features",
+        "Probability": 0.03955552987848326
+    },
+    {
+        "Technique": "Account Discovery",
+        "Probability": 0.13077974849307683
+    },
+    {
+        "Technique": "Adversary-in-the-Middle",
+        "Probability": 0.11485354439886764
+    },
+    {
+        "Technique": "Application Access Token",
+        "Probability": 0.10626456371444527
+    },
+    {
+        "Technique": "Audio Capture",
+        "Probability": 1.9257804225162247e-05
+    },
+    {
+        "Technique": "Boot or Logon Autostart Execution",
+        "Probability": 0.03955552987848326
+    },
+    {
+        "Technique": "Boot or Logon Initialization Scripts",
+        "Probability": 0.03955552987848326
+    },
+    {
+        "Technique": "Bootkit",
+        "Probability": 0.03955552987848326
+    },
+    {
+        "Technique": "Brute Force",
+        "Probability": 0.005989177114025458
+    },
+    {
+        "Technique": "Change Default File Association",
+        "Probability": 0.03955552987848326
+    },
+    {
+        "Technique": "Clipboard Data",
+        "Probability": 1.9257804225162247e-05
+    },
+    {
+        "Technique": "Credential Stuffing",
+        "Probability": 0.0180060469505267
+    },
+    {
+        "Technique": "Credentials In Files",
+        "Probability": 0.0030812486760259596
+    },
+    {
+        "Technique": "DLL Search Order Hijacking",
+        "Probability": 0.02553584840256514
+    },
+    {
+        "Technique": "DLL Side-Loading",
+        "Probability": 0.002426483332370443
+    },
+    {
+        "Technique": "Data from Network Shared Drive",
+        "Probability": 0.0030812486760259596
+    },
+    {
+        "Technique": "Default Accounts",
+        "Probability": 0.07841777880486067
+    },
+    {
+        "Technique": "Direct Network Flood",
+        "Probability": 0.01199761203227608
+    },
+    {
+        "Technique": "Disable or Modify Tools",
+        "Probability": 0.01977776493924163
+    },
+    {
+        "Technique": "Domain Account",
+        "Probability": 0.13077974849307683
+    },
+    {
+        "Technique": "Domain Accounts",
+        "Probability": 0.0720241878021068
+    },
+    {
+        "Technique": "Dylib Hijacking",
+        "Probability": 0.02553584840256514
+    },
+    {
+        "Technique": "Dynamic Linker Hijacking",
+        "Probability": 0.9523947079553989
+    },
+    {
+        "Technique": "Endpoint Denial of Service",
+        "Probability": 0.01199761203227608
+    },
+    {
+        "Technique": "External Remote Services",
+        "Probability": 0.03689795289541087
+    },
+    {
+        "Technique": "File and Directory Discovery",
+        "Probability": 0.16750438115046123
+    },
+    {
+        "Technique": "Impair Command History Logging",
+        "Probability": 0.31746490265179966
+    },
+    {
+        "Technique": "Indicator Removal on Host",
+        "Probability": 0.00011554682535097349
+    },
+    {
+        "Technique": "Install Root Certificate",
+        "Probability": 0.01977776493924163
+    },
+    {
+        "Technique": "Kerberoasting",
+        "Probability": 0.018448976447705434
+    },
+    {
+        "Technique": "Launch Daemon",
+        "Probability": 0.0684037206077763
+    },
+    {
+        "Technique": "Masquerading",
+        "Probability": 0.0008088277774568143
+    },
+    {
+        "Technique": "Match Legitimate Name or Location",
+        "Probability": 0.0008088277774568143
+    },
+    {
+        "Technique": "Modify Registry",
+        "Probability": 1.9257804225162247e-05
+    },
+    {
+        "Technique": "Network Service Discovery",
+        "Probability": 0.13077974849307683
+    },
+    {
+        "Technique": "Network Share Discovery",
+        "Probability": 0.13079900629730198
+    },
+    {
+        "Technique": "Network Sniffing",
+        "Probability": 0.007780152906965548
+    },
+    {
+        "Technique": "OS Exhaustion Flood",
+        "Probability": 0.01646542261251372
+    },
+    {
+        "Technique": "Obfuscated Files or Information",
+        "Probability": 0.18643480270379573
+    },
+    {
+        "Technique": "Pass the Hash",
+        "Probability": 0.03200647062221965
+    },
+    {
+        "Technique": "Pass the Ticket",
+        "Probability": 0.03200647062221965
+    },
+    {
+        "Technique": "Password Cracking",
+        "Probability": 0.0035241781732046912
+    },
+    {
+        "Technique": "Password Guessing",
+        "Probability": 0.005989177114025458
+    },
+    {
+        "Technique": "Password Spraying",
+        "Probability": 0.005969919309800296
+    },
+    {
+        "Technique": "Path Interception by PATH Environment Variable",
+        "Probability": 1.0
+    },
+    {
+        "Technique": "Path Interception by Search Order Hijacking",
+        "Probability": 0.002426483332370443
+    },
+    {
+        "Technique": "Path Interception by Unquoted Path",
+        "Probability": 0.04777861228262754
+    },
+    {
+        "Technique": "Peripheral Device Discovery",
+        "Probability": 0.13077974849307683
+    },
+    {
+        "Technique": "Permission Groups Discovery",
+        "Probability": 0.13077974849307683
+    },
+    {
+        "Technique": "Process Discovery",
+        "Probability": 0.13077974849307683
+    },
+    {
+        "Technique": "Query Registry",
+        "Probability": 0.0017717179887149267
+    },
+    {
+        "Technique": "Reflection Amplification",
+        "Probability": 0.009051167985826256
+    },
+    {
+        "Technique": "Registry Run Keys / Startup Folder",
+        "Probability": 3.851560845032449e-05
+    },
+    {
+        "Technique": "Remote Desktop Protocol",
+        "Probability": 0.018448976447705434
+    },
+    {
+        "Technique": "Remote Services",
+        "Probability": 0.018448976447705434
+    },
+    {
+        "Technique": "Remote System Discovery",
+        "Probability": 0.13077974849307683
+    },
+    {
+        "Technique": "Rootkit",
+        "Probability": 0.01977776493924163
+    },
+    {
+        "Technique": "SMB/Windows Admin Shares",
+        "Probability": 0.018448976447705434
+    },
+    {
+        "Technique": "SSH",
+        "Probability": 0.018448976447705434
+    },
+    {
+        "Technique": "Screen Capture",
+        "Probability": 1.9257804225162247e-05
+    },
+    {
+        "Technique": "Service Exhaustion Flood",
+        "Probability": 0.009051167985826256
+    },
+    {
+        "Technique": "Services File Permissions Weakness",
+        "Probability": 0.1159512392397019
+    },
+    {
+        "Technique": "Services Registry Permissions Weakness",
+        "Probability": 0.05933329481772488
+    },
+    {
+        "Technique": "Shortcut Modification",
+        "Probability": 0.034471469563040424
+    },
+    {
+        "Technique": "Software Deployment Tools",
+        "Probability": 0.0025035145492710922
+    },
+    {
+        "Technique": "Steal or Forge Kerberos Tickets",
+        "Probability": 0.019585186896990004
+    },
+    {
+        "Technique": "System Information Discovery",
+        "Probability": 0.13077974849307683
+    },
+    {
+        "Technique": "System Network Configuration Discovery",
+        "Probability": 0.13077974849307683
+    },
+    {
+        "Technique": "System Owner/User Discovery",
+        "Probability": 0.13077974849307683
+    },
+    {
+        "Technique": "System Service Discovery",
+        "Probability": 0.13077974849307683
+    },
+    {
+        "Technique": "System Time Discovery",
+        "Probability": 0.13077974849307683
+    },
+    {
+        "Technique": "Systemd Service",
+        "Probability": 0.0684037206077763
+    },
+    {
+        "Technique": "Taint Shared Content",
+        "Probability": 0.01977776493924163
+    },
+    {
+        "Technique": "Traffic Duplication",
+        "Probability": 0.008030504361892657
+    },
+    {
+        "Technique": "VNC",
+        "Probability": 0.018448976447705434
+    },
+    {
+        "Technique": "Valid Accounts",
+        "Probability": 0.0720241878021068
+    },
+    {
+        "Technique": "Video Capture",
+        "Probability": 1.9257804225162247e-05
+    },
+    {
+        "Technique": "Web Session Cookie",
+        "Probability": 0.32603462553199686
+    },
+    {
+        "Technique": "Web Shell",
+        "Probability": 0.05313228185722264
+    },
+    {
+        "Technique": "Windows Service",
+        "Probability": 0.0684037206077763
+    }
+]
